@@ -1,4 +1,4 @@
-# 📊 Project: 🖩 Calculator Application
+# 📊 Project: Calculator Application
 
 ## 🛠️ Tools Used
 - Python
