@@ -4,7 +4,7 @@
 - Python
 - Tkinter
 
-## 📈 Objectives
+## 🎯 Objectives
 - Develop a simple yet interactive GUI-based calculator for basic arithmetic operations.
 - Implement real-time expression evaluation with error handling for accurate calculations.
 - Design a user-friendly interface with intuitive button placements for seamless usability.
